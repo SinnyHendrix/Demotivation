@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import QuoteView from '../components/QuoteView.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <QuoteView />
   </main>
 </template>
