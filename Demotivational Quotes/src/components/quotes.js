@@ -144,5 +144,38 @@ export const quotes = [
       quote: "Dream Big, Set Goals. Write goals on a nice paper and never look at them again.",
       author: "Some Guy"
     },
+    {
+      id: 30,
+      quote: "If you can’t convince them, confuse them.",
+      author:"Some Guy"
+    },
+    {
+      id: 31,
+      quote: "You can’t make everyone happy. You’re not a jar of Nutella.",
+      author:"Some Guy"
+    },
+    {
+      id: 32,
+      quote: "The only thing standing between you and your dream is the story you keep telling yourself as to why you can't achieve it.",
+      author:"Some Guy"
+    },
+    {
+        id: 33,
+        quote: "Dream Big, Set Goals. Write goals on a nice paper and never look at them again.",
+        author: "Some Guy"
+    },
+    {
+        id: 34,
+        quote: "Every dark clooud has a silve lining, but lightning kills hundreds of people each year who are trying to find it.",
+        author:"Some Guy"
+    },
+    {
+        id: 35,
+        quote: "Hope is just disappointment waiting to happen.",
+        author:"Some Guy"
+    },
+
+
+
   ]
   
